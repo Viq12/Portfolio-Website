@@ -1,3 +1,3 @@
-This is my personal portfolio
+This is my personal portfolio.
 <br>
-Author - Vishakha Bhosale
+Author - Vishakha Bhosale.
